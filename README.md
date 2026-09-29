@@ -19,8 +19,8 @@
 | 0001 | [Bottom view of BT](./DSA/Trees/bottom-view-of-bt) | [CPP](./DSA/Trees/bottom-view-of-bt/solution.cpp) | 🟡 Medium | `Trees` | `2026-09-20` |
 | 0002 | [Boundary Traversal](./DSA/Trees/boundary-traversal) | [CPP](./DSA/Trees/boundary-traversal/solution.cpp) | 🟡 Medium | `Trees` | `2026-09-20` |
 | 0003 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [Solution-2](./DSA/Trees/check-for-balanced-binary-tree/Solution-2.cpp) | 🟡 Medium | `Trees` | `2026-09-26` |
-| 0004 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [CPP](./DSA/Trees/check-for-symmetrical-bts/solution.cpp) [Solution-2](./DSA/Trees/check-for-symmetrical-bts/Solution-2.cpp) | 🟡 Medium | `Trees` | `2026-09-29` |
-| 0005 | [Children Sum Property in Binary Tree](./DSA/Trees/children-sum-property-in-binary-tree) | [CPP](./DSA/Trees/children-sum-property-in-binary-tree/solution.cpp) | 🟡 Medium | `Trees` | `2026-09-20` |
+| 0004 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [Solution-2](./DSA/Trees/check-for-symmetrical-bts/Solution-2.cpp) [CPP](./DSA/Trees/check-for-symmetrical-bts/solution.cpp) | 🟡 Medium | `Trees` | `2026-09-29` |
+| 0005 | [Children Sum Property in Binary Tree](./DSA/Trees/children-sum-property-in-binary-tree) | [CPP](./DSA/Trees/children-sum-property-in-binary-tree/solution.cpp) [Solution-2](./DSA/Trees/children-sum-property-in-binary-tree/Solution-2.cpp) | 🟡 Medium | `Trees` | `2026-09-29` |
 | 0006 | [Count total nodes in a complete BT](./DSA/Trees/count-total-nodes-in-a-complete-bt) | [Solution-1](./DSA/Trees/count-total-nodes-in-a-complete-bt/Solution-1.cpp) | 🟢 Easy | `Trees` | `2026-09-20` |
 | 0007 | [Flatten Binary Tree to Linked List](./DSA/Linked-List/flatten-binary-tree-to-linked-list) | [CPP](./DSA/Linked-List/flatten-binary-tree-to-linked-list/solution.cpp) | 🟡 Medium | `Linked-List` | `2026-09-20` |
 | 0008 | [Insert node before head in Doubly Linked List](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list) | [Solution-2](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list/Solution-2.cpp) | 🟢 Easy | `Linked-List` | `2026-09-20` |

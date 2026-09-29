@@ -1,6 +1,6 @@
-# [Children Sum Property in Binary Tree](https://takeuforward.org/plus/dsa/problems/children-sum-property-in-binary-tree?source=strivers-a2z-dsa-track&tab=submissions)
+# [Children Sum Property in Binary Tree](https://takeuforward.org/practice/dsa/children-sum-property-in-binary-tree?category=medium-problems&source=strivers-a2z-dsa-sheet&sidebar=0)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
@@ -11,38 +11,32 @@ Given the root of a binary tree, return true if and only if every node’s value
 - For any missing ( null ) child, its value is treated as 0.
 - A leaf node automatically satisfies the rule because both children are null.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** root = [1,4,3,5]
 
-**Input:** root = [1,4,3,5]</p><p>
+**Output:** false
 
-**Output:** false</p><p>
+**Explanation:**
 
-**Explanation:** </p>
 - The root is 1, but its children sum to 4 + 3 = 7. Since 1 ≠ 7, the tree violates the property.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** root = [10,4,6,1,3,2,4]
 
-**Input:** root = [10,4,6,1,3,2,4]</p><p>
+**Output:** true
 
-**Output:** true</p><p>
+**Explanation:**
 
-**Explanation:** </p>
 - 4 = 1 + 3
 - 6 = 2 + 4
 - 10 = 4 + 6
 - All internal nodes satisfy the condition.
 
-### Example 3
+Still unsure what the problem is asking ?
 
-<p>
-
-**Input:** root = [35,20,15,15,5,10,5]</p>Output:
-
-true
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -60,5 +54,5 @@ true
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
