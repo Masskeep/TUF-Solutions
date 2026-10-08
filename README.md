@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 4 | 18 | 1 | `2026-10-04` |
+| **23** | 4 | 18 | 1 | `2026-10-08` |
 
 ---
 
@@ -16,7 +16,7 @@
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Bottom view of BT](./DSA/Trees/bottom-view-of-bt) | [CPP](./DSA/Trees/bottom-view-of-bt/solution.cpp) | 🟡 Medium | `Trees` | `-` |
+| 0001 | [Bottom view of BT](./DSA/Trees/bottom-view-of-bt) | [CPP](./DSA/Trees/bottom-view-of-bt/solution.cpp) [Solution-2](./DSA/Trees/bottom-view-of-bt/Solution-2.cpp) | 🟡 Medium | `Trees` | `2026-10-08` |
 | 0002 | [Boundary Traversal](./DSA/Trees/boundary-traversal) | [CPP](./DSA/Trees/boundary-traversal/solution.cpp) [Solution-2](./DSA/Trees/boundary-traversal/Solution-2.cpp) | 🟡 Medium | `Trees` | `2026-10-02` |
 | 0003 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [Solution-2](./DSA/Trees/check-for-balanced-binary-tree/Solution-2.cpp) | 🟡 Medium | `Trees` | `-` |
 | 0004 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [Solution-2](./DSA/Trees/check-for-symmetrical-bts/Solution-2.cpp) [CPP](./DSA/Trees/check-for-symmetrical-bts/solution.cpp) | 🟡 Medium | `Trees` | `-` |
