@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **25** | 5 | 19 | 1 | `2026-10-08` |
+| **26** | 5 | 20 | 1 | `2026-10-08` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (25)
+### DSA (26)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -31,16 +31,17 @@
 | 0013 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [Solution-2](./DSA/Trees/maximum-depth-in-bt/Solution-2.cpp) | 🟡 Medium | `Trees` | `-` |
 | 0014 | [Maximum path sum](./DSA/Trees/maximum-path-sum-) | [Solution-2](./DSA/Trees/maximum-path-sum-/Solution-2.cpp) | 🔴 Hard | `Trees` | `-` |
 | 0015 | [Maximum Width of BT](./DSA/Trees/maximum-width-of-bt) | [CPP](./DSA/Trees/maximum-width-of-bt/solution.cpp) | 🟡 Medium | `Trees` | `-` |
-| 0016 | [Power Set](./DSA/Recursion/power-set) | [Solution-3](./DSA/Recursion/power-set/Solution-3.cpp) | 🟡 Medium | `Recursion` | `-` |
-| 0017 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [Solution-3](./DSA/Trees/preorder-traversal/Solution-3.cpp) | 🟢 Easy | `Trees` | `-` |
-| 0018 | [Print root to leaf path in BT](./DSA/Trees/print-root-to-leaf-path-in-bt) | [CPP](./DSA/Trees/print-root-to-leaf-path-in-bt/solution.cpp) | 🟡 Medium | `Trees` | `-` |
-| 0019 | [Requirements needed to construct a unique BT](./DSA/Trees/requirements-needed-to-construct-a-unique-bt) | [CPP](./DSA/Trees/requirements-needed-to-construct-a-unique-bt/solution.cpp) | 🟡 Medium | `Trees` | `-` |
-| 0020 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [CPP](./DSA/Trees/rightleft-view-of-bt/solution.cpp) | 🟡 Medium | `Trees` | `-` |
-| 0021 | [Search in BST](./DSA/Trees/search-in-bst) | [CPP](./DSA/Trees/search-in-bst/solution.cpp) | 🟢 Easy | `Trees` | `2026-10-08` |
-| 0022 | [Single Number - I](./DSA/Bit-Manipulation/single-number-i) | [Solution-3](./DSA/Bit-Manipulation/single-number-i/Solution-3.cpp) | 🟡 Medium | `Bit-Manipulation` | `-` |
-| 0023 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [Solution-2](./DSA/Trees/top-view-of-bt/Solution-2.cpp) [Solution-3](./DSA/Trees/top-view-of-bt/Solution-3.cpp) [CPP](./DSA/Trees/top-view-of-bt/solution.cpp) | 🟡 Medium | `Trees` | `2026-10-04` |
-| 0024 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [CPP](./DSA/Trees/vertical-order-traversal/solution.cpp) | 🟡 Medium | `Trees` | `-` |
-| 0025 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `Trees` | `-` |
+| 0016 | [Minimum and Maximum in BST](./DSA/Trees/minimum-and-maximum-in-bst) | [CPP](./DSA/Trees/minimum-and-maximum-in-bst/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-10-08` |
+| 0017 | [Power Set](./DSA/Recursion/power-set) | [Solution-3](./DSA/Recursion/power-set/Solution-3.cpp) | 🟡 Medium | `Recursion` | `-` |
+| 0018 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [Solution-3](./DSA/Trees/preorder-traversal/Solution-3.cpp) | 🟢 Easy | `Trees` | `-` |
+| 0019 | [Print root to leaf path in BT](./DSA/Trees/print-root-to-leaf-path-in-bt) | [CPP](./DSA/Trees/print-root-to-leaf-path-in-bt/solution.cpp) | 🟡 Medium | `Trees` | `-` |
+| 0020 | [Requirements needed to construct a unique BT](./DSA/Trees/requirements-needed-to-construct-a-unique-bt) | [CPP](./DSA/Trees/requirements-needed-to-construct-a-unique-bt/solution.cpp) | 🟡 Medium | `Trees` | `-` |
+| 0021 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [CPP](./DSA/Trees/rightleft-view-of-bt/solution.cpp) | 🟡 Medium | `Trees` | `-` |
+| 0022 | [Search in BST](./DSA/Trees/search-in-bst) | [CPP](./DSA/Trees/search-in-bst/solution.cpp) | 🟢 Easy | `Trees` | `2026-10-08` |
+| 0023 | [Single Number - I](./DSA/Bit-Manipulation/single-number-i) | [Solution-3](./DSA/Bit-Manipulation/single-number-i/Solution-3.cpp) | 🟡 Medium | `Bit-Manipulation` | `-` |
+| 0024 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [Solution-2](./DSA/Trees/top-view-of-bt/Solution-2.cpp) [Solution-3](./DSA/Trees/top-view-of-bt/Solution-3.cpp) [CPP](./DSA/Trees/top-view-of-bt/solution.cpp) | 🟡 Medium | `Trees` | `2026-10-04` |
+| 0025 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [CPP](./DSA/Trees/vertical-order-traversal/solution.cpp) | 🟡 Medium | `Trees` | `-` |
+| 0026 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `Trees` | `-` |
 
 ---
 
