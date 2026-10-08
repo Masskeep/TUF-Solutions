@@ -6,18 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 4 | 18 | 1 | `2026-10-08` |
+| **24** | 5 | 18 | 1 | `2026-10-08` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (23)
+### DSA (24)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Bottom view of BT](./DSA/Trees/bottom-view-of-bt) | [CPP](./DSA/Trees/bottom-view-of-bt/solution.cpp) [Solution-2](./DSA/Trees/bottom-view-of-bt/Solution-2.cpp) | 🟡 Medium | `Trees` | `2026-10-08` |
-| 0002 | [Boundary Traversal](./DSA/Trees/boundary-traversal) | [CPP](./DSA/Trees/boundary-traversal/solution.cpp) [Solution-2](./DSA/Trees/boundary-traversal/Solution-2.cpp) | 🟡 Medium | `Trees` | `2026-10-02` |
+| 0001 | [Bottom view of BT](./DSA/Trees/bottom-view-of-bt) | [Solution-2](./DSA/Trees/bottom-view-of-bt/Solution-2.cpp) [CPP](./DSA/Trees/bottom-view-of-bt/solution.cpp) | 🟡 Medium | `Trees` | `2026-10-08` |
+| 0002 | [Boundary Traversal](./DSA/Trees/boundary-traversal) | [Solution-2](./DSA/Trees/boundary-traversal/Solution-2.cpp) [CPP](./DSA/Trees/boundary-traversal/solution.cpp) | 🟡 Medium | `Trees` | `2026-10-02` |
 | 0003 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [Solution-2](./DSA/Trees/check-for-balanced-binary-tree/Solution-2.cpp) | 🟡 Medium | `Trees` | `-` |
 | 0004 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [Solution-2](./DSA/Trees/check-for-symmetrical-bts/Solution-2.cpp) [CPP](./DSA/Trees/check-for-symmetrical-bts/solution.cpp) | 🟡 Medium | `Trees` | `-` |
 | 0005 | [Children Sum Property in Binary Tree](./DSA/Trees/children-sum-property-in-binary-tree) | [Solution-2](./DSA/Trees/children-sum-property-in-binary-tree/Solution-2.cpp) [CPP](./DSA/Trees/children-sum-property-in-binary-tree/solution.cpp) | 🟡 Medium | `Trees` | `-` |
@@ -35,10 +35,11 @@
 | 0017 | [Print root to leaf path in BT](./DSA/Trees/print-root-to-leaf-path-in-bt) | [CPP](./DSA/Trees/print-root-to-leaf-path-in-bt/solution.cpp) | 🟡 Medium | `Trees` | `-` |
 | 0018 | [Requirements needed to construct a unique BT](./DSA/Trees/requirements-needed-to-construct-a-unique-bt) | [CPP](./DSA/Trees/requirements-needed-to-construct-a-unique-bt/solution.cpp) | 🟡 Medium | `Trees` | `-` |
 | 0019 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [CPP](./DSA/Trees/rightleft-view-of-bt/solution.cpp) | 🟡 Medium | `Trees` | `-` |
-| 0020 | [Single Number - I](./DSA/Bit-Manipulation/single-number-i) | [Solution-3](./DSA/Bit-Manipulation/single-number-i/Solution-3.cpp) | 🟡 Medium | `Bit-Manipulation` | `-` |
-| 0021 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [CPP](./DSA/Trees/top-view-of-bt/solution.cpp) [Solution-2](./DSA/Trees/top-view-of-bt/Solution-2.cpp) [Solution-3](./DSA/Trees/top-view-of-bt/Solution-3.cpp) | 🟡 Medium | `Trees` | `2026-10-04` |
-| 0022 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [CPP](./DSA/Trees/vertical-order-traversal/solution.cpp) | 🟡 Medium | `Trees` | `-` |
-| 0023 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `Trees` | `-` |
+| 0020 | [Search in BST](./DSA/Trees/search-in-bst) | [CPP](./DSA/Trees/search-in-bst/solution.cpp) | 🟢 Easy | `Trees` | `2026-10-08` |
+| 0021 | [Single Number - I](./DSA/Bit-Manipulation/single-number-i) | [Solution-3](./DSA/Bit-Manipulation/single-number-i/Solution-3.cpp) | 🟡 Medium | `Bit-Manipulation` | `-` |
+| 0022 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [Solution-2](./DSA/Trees/top-view-of-bt/Solution-2.cpp) [Solution-3](./DSA/Trees/top-view-of-bt/Solution-3.cpp) [CPP](./DSA/Trees/top-view-of-bt/solution.cpp) | 🟡 Medium | `Trees` | `2026-10-04` |
+| 0023 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [CPP](./DSA/Trees/vertical-order-traversal/solution.cpp) | 🟡 Medium | `Trees` | `-` |
+| 0024 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `Trees` | `-` |
 
 ---
 
