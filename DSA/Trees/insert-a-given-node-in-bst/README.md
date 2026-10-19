@@ -1,4 +1,4 @@
-# [Insert a given node in BST](https://takeuforward.org/practice/dsa/insert-a-given-node-in-bst?category=medium&source=strivers-a2z-dsa-sheet)
+# [Insert a given node in BST](https://takeuforward.org/practice/dsa/insert-a-given-node-in-bst?category=medium&source=strivers-a2z-dsa-sheet&sidebar=0)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
