@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **28** | 5 | 22 | 1 | `2026-10-20` |
+| **28** | 5 | 22 | 1 | `2026-10-21` |
 
 ---
 
@@ -25,7 +25,7 @@
 | 0007 | [Delete a node in BST](./DSA/Trees/delete-a-node-in-bst) | [CPP](./DSA/Trees/delete-a-node-in-bst/solution.cpp) | 🟡 Medium | `Trees` | `2026-10-20` |
 | 0008 | [Flatten Binary Tree to Linked List](./DSA/Linked-List/flatten-binary-tree-to-linked-list) | [CPP](./DSA/Linked-List/flatten-binary-tree-to-linked-list/solution.cpp) | 🟡 Medium | `Linked-List` | `-` |
 | 0009 | [Floor and Ceil in a BST](./DSA/Trees/floor-and-ceil-in-a-bst) | [CPP](./DSA/Trees/floor-and-ceil-in-a-bst/solution.cpp) | 🟡 Medium | `Trees` | `2026-10-08` |
-| 0010 | [Insert a given node in BST](./DSA/Trees/insert-a-given-node-in-bst) | [CPP](./DSA/Trees/insert-a-given-node-in-bst/solution.cpp) [Solution-2](./DSA/Trees/insert-a-given-node-in-bst/Solution-2.cpp) | 🟡 Medium | `Trees` | `2026-10-19` |
+| 0010 | [Insert a given node in BST](./DSA/Trees/insert-a-given-node-in-bst) | [CPP](./DSA/Trees/insert-a-given-node-in-bst/solution.cpp) [Solution-2](./DSA/Trees/insert-a-given-node-in-bst/Solution-2.cpp) [Solution-1](./DSA/Trees/insert-a-given-node-in-bst/Solution-1.cpp) | 🟡 Medium | `Trees` | `2026-10-21` |
 | 0011 | [Insert node before head in Doubly Linked List](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list) | [Solution-2](./DSA/Linked-List/insert-node-before-head-in-doubly-linked-list/Solution-2.cpp) | 🟢 Easy | `Linked-List` | `-` |
 | 0012 | [Isomorphic String](./DSA/Beginner-Problems/isomorphic-string) | [Solution-2](./DSA/Beginner-Problems/isomorphic-string/Solution-2.cpp) | 🟢 Easy | `Beginner-Problems` | `-` |
 | 0013 | [K-th Largest element in an array](./DSA/Heaps/k-th-largest-element-in-an-array) | [Solution-3](./DSA/Heaps/k-th-largest-element-in-an-array/Solution-3.cpp) | 🟡 Medium | `Heaps` | `-` |
